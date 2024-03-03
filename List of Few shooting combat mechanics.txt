@@ -1,0 +1,13 @@
+Here is List of Few shooting combat mechanics that need to testing :-
+
+* Weapon savaging : During weapon savaging in war field, Factors like weapon availability, picking speed, animation need to tested
+
+* Health damage : The damage to players differs from each weapon with respect to players health strength, distance, position of bullet point on players body.
+
+* Recoil effect : Recoil effect is one of the main factor that makes the game more intense.
+
+* Reloading : Speed, animation, sound of each weapon reload.
+
+* Players interactions : During the gameplay interaction with opponents and also teammates. Like support,  reviving, friendly fire damage and many more.
+
+* Movements : Player’s movement in water, On terrain, Open ground, Crouching sprinting.

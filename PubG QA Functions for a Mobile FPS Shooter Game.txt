@@ -1,0 +1,82 @@
+QA Functions for a Mobile FPS Shooter Game:
+
+1. Functional Testing:
+
+* Character movement and controls
+* Weapon functionality and accuracy
+* Health and damage mechanics
+* Environmental interactions (ex:- door opening, vehicle usage)
+* Game objectives and mission progress
+
+
+2. Performance Testing:
+
+* Frame rate and smooth gameplay
+* Loading times for maps and assets
+* Network latency and lag
+* Device compatibility and resource usage
+
+
+3. Compatibility Testing:
+
+* Testing on various mobile devices (iOS and Android)
+* Different screen resolutions and aspect ratios
+* Testing on multiple operating system versions
+
+
+4. Usability Testing:
+
+* User interface (UI) design and navigation
+* Player experience and feedback
+* In-game tutorials and instructions
+
+
+6. Regression Testing:
+
+* Ensuring new updates or features do not break existing functionality
+* Testing previously identified bugs to ensure they are fixed
+
+
+7. Globalization Testing (Localization Testing):
+
+* Translations and cultural adaptation
+* Testing special characters and language-specific nuances
+
+
+8. User Acceptance Testing (UAT) / Acceptance Testing:
+
+* Collecting feedback from beta testers or a selected user group
+* Assessing the game's acceptance in the target market
+
+
+Why these different kinds of QA:
+-------------------------------
+
+-> Functional Testing: Ensures that all game features work as intended.
+
+-> Performance Testing: Guarantees a smooth gaming experience across various devices.
+
+-> Compatibility Testing: To ensure that all features are consistantly working in all the platforms.
+
+-> Usability Testing: Enhances the player's overall experience, making the game more enjoyable and user-friendly.
+
+-> Regression Testing: Prevents the introduction of new bugs while implementing updates.
+
+-> Localization Testing: Ensures the game is culturally suitable and language-friendly for end users.
+
+-> User Acceptance Testing (UAT): Gathers real user feedback to refine the game based on actual player experiences.
+
+
+
+Cadence of QA:
+--------------
+
+-> Functional and Regression Testing : After major feature development and before releases.
+
+-> Performance and Compatibility Testing : Before major updates and periodically across different devices.
+
+-> Usability Testing: Before major updates and periodically to refine the user interface.
+
+-> Localization Testing: Before international releases and when new language packs are added.
+
+-> User Acceptance Testing (UAT): Before major releases and when significant changes are introduced based on user feedback.
